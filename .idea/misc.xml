@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_config.xml" value="0.15307971014492755" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_erc_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_erc_list_show.xml" value="0.16666666666666666" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_exchange_rate.xml" value="0.134375" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_my_adapter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/activity_rate_list.xml" value="0.12907608695652173" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/layout/list_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Studying/Android/Homework/app/src/main/res/menu/mymeau.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
